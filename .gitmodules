@@ -7,3 +7,6 @@
 [submodule "vendors/taste-skill"]
 	path = vendors/taste-skill
 	url = https://github.com/Leonxlnx/taste-skill
+[submodule "vendors/codex"]
+	path = vendors/codex
+	url = https://github.com/openai/codex-plugin-cc
