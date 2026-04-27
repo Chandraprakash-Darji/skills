@@ -1,0 +1,9 @@
+[submodule "vendors/graphify"]
+	path = vendors/graphify
+	url = https://github.com/safishamsi/graphify.git
+[submodule "vendors/mattpocock"]
+	path = vendors/mattpocock
+	url = https://github.com/mattpocock/skills.git
+[submodule "vendors/taste-skill"]
+	path = vendors/taste-skill
+	url = https://github.com/Leonxlnx/taste-skill
