@@ -10,3 +10,6 @@
 [submodule "vendors/codex"]
 	path = vendors/codex
 	url = https://github.com/openai/codex-plugin-cc
+[submodule "vendors/rega.private"]
+	path = vendors/rega.private
+	url = https://github.com/Chandraprakash-Darji/skills.private
